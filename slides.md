@@ -8,7 +8,7 @@
 
 ------------------
 
-<h3 style="font-size:7vw; color: #1DB954">Table of contents</h3>
+<h3 style="font-size:5vw; color: #1DB954">Table of contents</h3>
 
 - Intro: the data and the significance of Spotify's charts
 - General ananlysis: popular music around the world
@@ -16,7 +16,7 @@
 
 ------------------
 
-<h3 style="font-size:7vw; color: #1DB954">Data structure</h3>
+<h3 style="font-size:5vw; color: #1DB954">Data structure</h3>
 
 ![5.212.985 rows x 13 columns](df_for_presentation.jpg)
 <p></p> 
@@ -40,7 +40,7 @@
 
 ------------------
 
-<h3 style="font-size:7vw; color: #1DB954">Finding old songs</h3>
+<h3 style="font-size:5vw; color: #1DB954">Finding old songs</h3>
 
 - looking at the global charts for worldwide trends
 - adding more data from Spotify Web API: release dates for each song
@@ -48,7 +48,7 @@
 
 ------------------
 
-<h3 style="font-size:7vw; color: #1DB954">Some statistics</h3>
+<h3 style="font-size:5vw; color: #1DB954">Some statistics</h3>
 
 <p align="left">GLOBAL CHARTS 2013-2022</p>
 
@@ -65,11 +65,11 @@
 
 ------------------
 
-- 35 unique song titles contain the word „Christmas“: only 2.6 % left
+- 35 unique song titles contain the word „Christmas“: 2.6 % left
 
-- 99 unique songs charting in December: only 1.5 % 
+- 99 unique songs charting in December: 1.5 % left 
 
-- the truth lies in between: only <font color="#1DB954">2.6-1.5%</font> of Spotify's Top 200 are *older*/non-contemporary/non-christmas songs
+- the truth lies in between: only <font color="#1DB954">2.6-1.5%</font> of Spotify's Top 200 are older/non-contemporary/non-christmas songs
 
 <font color="#1DB954">Let's find out which songs these are and why they suddenly rise in global popularity!</font>
 
