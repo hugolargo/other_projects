@@ -2,7 +2,7 @@
 
 This document details the various steps I undertook while working on the project, from data import and cleaning to visual analysis. Check out the Jupyter Notebooks to see the code.
 
-# 1. Exploring the dataset + general data cleaning
+## 1. Exploring the dataset + general data cleaning
 
 - cleaning the artists column from special characters
 - changing and renaming the duration column from seconds to minutes
@@ -12,7 +12,7 @@ This document details the various steps I undertook while working on the project
 - exploring the data for specific genres, artists, chart positions
 - joining the data with my own listening history: how does my taste match with the Spotify charts?
 
-# 2. Analyzing most popular songs & artists
+## 2. Analyzing most popular songs & artists
 
 - aggregating the songs with most streams worldwide
 - finding the most popular artists for each country
@@ -20,13 +20,13 @@ This document details the various steps I undertook while working on the project
 - plotting data to world map with plotly express
 
 
-# 3. General Analysis - Evolution of Artist and Genre over the years
+## 3. General Analysis - Evolution of Artist and Genre over the years
 
 - filtering for Drake and aggregating streaming numbers for each year
 - filtering and aggregating streaming numbers for different genres per year to see changes in popularity
 
 
-# 4. Pulling release dates from Spotify API
+## 4. Pulling release dates from Spotify API
 
 - extracting unique trackIDs from global charts data frame into a list, then creating 6 id_sets with 1000 track_ids each
 - installing spotipy library to connect with the Spotify API
@@ -36,7 +36,7 @@ This document details the various steps I undertook while working on the project
 - merge release_dates_dataframe with general dataframe on track_id
 
 
-# 5. Release Dates - Data Wrangling and exploratory analysis
+## 5. Release Dates - Data Wrangling and exploratory analysis
 
 - sorting data by release date, changing datatype to datetime 
 - extracting release year as separate column, renaming columns
@@ -48,11 +48,11 @@ This document details the various steps I undertook while working on the project
 - plotting the chart performance of „Running up that Hill“
 
 
-# 6. Old vs. new songs - Further analysis and statistics
+## 6. Old vs. new songs - Further analysis and statistics
 
 - once more exploring the statistics of old vs. new songs and the proportion of Christmas songs
 - trying to find special songs and chart appearances, patterns and explanations
 - finding out which songs made the most weekly streams ever
 
 
-# Final analysis and visualization took place in Tableau. Have a look at the plot folder or final presentation slides for the results.
+### Final analysis and visualization took place in Tableau. Have a look at the plot folder or final presentation slides for the results.
