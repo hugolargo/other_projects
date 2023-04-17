@@ -1,5 +1,9 @@
 # Spotify Project Process
 
+For my final data analytics project at Spiced Academy I worked with 10 years of chart data from Spotify. The Spotify Top 200 collected the 200 most streamed songs on a weekly basis for each country and on global scale. 
+
+After some exploration of the dataset, I realized that there also appear a couple of older songs in the charts, which are usually dominated by recently released pop music. So I forged the plan to find out which older songs are hidden in the Spotify charts, why and when they appear.
+
 This document details the various steps I undertook while working on the project, from data import and cleaning to visual analysis. Check out the Jupyter Notebooks to see the code.
 
 ## 1. Exploring the dataset + general data cleaning
