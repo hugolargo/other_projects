@@ -1,4 +1,4 @@
-### Spotify Project Process
+# Spotify Project Process
 
 This document details the various steps I undertook while working on the project, from data import and cleaning to visual analysis. Check out the Jupyter Notebooks to see the code.
 
