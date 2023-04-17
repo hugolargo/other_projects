@@ -55,4 +55,4 @@ This document details the various steps I undertook while working on the project
 - finding out which songs made the most weekly streams ever
 
 
-### Final analysis and visualization took place in Tableau. Have a look at the plot folder or the [final presentation slides] (https://hugolargo.github.io/slides.html#/music-of-the-masses) for the results.
+### Final analysis and visualization took place in Tableau. Have a look at the plot folder or the [final presentation slides](https://hugolargo.github.io/slides.html#/music-of-the-masses) for the results.
