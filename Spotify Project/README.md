@@ -1,6 +1,6 @@
 # Spotify Project Process
 
-For my final data analytics project at Spiced Academy I worked with close to 10 years of chart data from Spotify. The Spotify Top 200 collect the 200 most streamed songs on a weekly basis for each country and on global scale. 
+For my final data analytics project at Spiced Academy I worked with 10 years of chart data from Spotify. The Spotify Top 200 collect the 200 most streamed songs on a weekly basis for each country and on global scale. 
 
 After some exploration of the dataset, I realized that here and there a couple of older songs were appearing in the charts, which are usually dominated by recently released pop music. So I forged the plan to find out which old songs are hidden in the charts, but also why and when they do appear.
 
